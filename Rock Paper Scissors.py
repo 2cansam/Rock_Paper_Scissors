@@ -47,4 +47,3 @@ while True:
             continue
         else:
             exit()
-
